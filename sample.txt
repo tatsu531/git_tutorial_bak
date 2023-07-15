@@ -1,5 +1,2 @@
-1回目のcommitです
-2回目のcommitです
-3回目のcommitです fff
-4回目のcommitです vv
+git commit --amend
 
